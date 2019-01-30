@@ -34,3 +34,15 @@ Includes examples of Delegates, Lambdas, and LINQ.
 ### Video 6 (Notes) - Unity C# Fundamentals - Collections, Arrays, Lists, IEnumerables, and Dictionaries
 
 Examples in source code
+
+### Video 7 (Notes) - Unity C# Fundamentals - Static Classes Versus Non-Static Classes
+
+Examples in source code
+
+### Video 8 (Notes) - Unity C# Fundamentals - Enums and using them for logical comparisons
+
+Examples in source code
+
+### Video 9 (Notes) - Unity C# Fundamentals - Properties versus methods
+
+Examples in source code
