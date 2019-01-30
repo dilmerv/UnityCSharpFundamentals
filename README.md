@@ -1,5 +1,5 @@
 # Unity C# Fundamentals
-[Unity3d C# Fundamentals Course PlayList](https://www.youtube.com/watch?v=dcYUTeP8tmc&list=PLQMQNmwN3FvyRruvfH93H63X9nqKOplXc)
+[Unity3d C# Fundamentals Course PlayList](https://www.youtube.com/watch?v=6-0gjHmUdjY&list=PLQMQNmwN3FvyRruvfH93H63X9nqKOplXc)
 
 ### Video 1 (Notes) - Unity C# Fundamentals - Declaring Variables and Methods
 
