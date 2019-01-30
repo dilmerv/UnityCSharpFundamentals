@@ -46,3 +46,7 @@ Examples in source code
 ### Video 9 (Notes) - Unity C# Fundamentals - Properties versus methods
 
 Examples in source code
+
+### Video 10 (Notes) - Unity C# Fundamentals - Cool and Lazy C# Features
+
+Examples in source code
