@@ -30,3 +30,7 @@ A class is a user-defined blueprint or prototype from which objects are created.
 ### Video 5 (Notes) - Unity C# Fundamentals - Delegates, Lambdas, and LINQ
 
 Includes examples of Delegates, Lambdas, and LINQ.
+
+### Video 6 (Notes) - Unity C# Fundamentals - Collections, Arrays, Lists, IEnumerables, and Dictionaries
+
+Examples in source code
