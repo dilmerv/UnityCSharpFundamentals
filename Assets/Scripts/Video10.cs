@@ -25,7 +25,7 @@ public class Video10 : MonoBehaviour
 
     string GetSomeData () => SomeProperty;
 
-    bool IsThisObjectValid () => SomeProperty.length >= 3;
+    bool IsThisObjectValid () => SomeProperty.Length >= 3;
 
     string GetSomeDataWithReturn()
     {
