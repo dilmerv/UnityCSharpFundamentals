@@ -15,6 +15,10 @@ public class Player : Human
         }
     }
     
+    public Multiplayer FirstRoom = null;
+
+    public Multiplayer SecondRoom = new  Multiplayer();
+
     public Player(string firstName, string lastName, int age, string xboxOneLiveID) : base(firstName, lastName, age)
     {
         this.xboxOneLiveID = xboxOneLiveID;
