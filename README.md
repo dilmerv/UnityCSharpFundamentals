@@ -50,3 +50,7 @@ Examples in source code
 ### Video 10 (Notes) - Unity C# Fundamentals - Cool and Lazy C# Features
 
 Examples in source code
+
+### Video 14 (Notes) - Unity C# Fundamentals - GameObject Static Class Methods
+
+Examples in source code
