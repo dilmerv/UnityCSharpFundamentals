@@ -921,6 +921,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gameObjectPrefab: {fileID: 7867469244723807149, guid: 899d7aa8f40634e408d4fffffcdbe037,
     type: 3}
+  destroyEnemyOnLoad: 1
 --- !u!4 &1428047018
 Transform:
   m_ObjectHideFlags: 0
