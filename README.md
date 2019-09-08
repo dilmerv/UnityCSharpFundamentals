@@ -54,3 +54,11 @@ Examples in source code
 ### Video 14 (Notes) - Unity C# Fundamentals - GameObject Static Class Methods
 
 Examples in source code
+
+### Video 15 (Notes) - Unity C# Fundamentals - Data Structures Using a Stack
+
+Examples in source code
+
+### Video 16 (Notes) - Unity C# Fundamentals - Data Structures Using a Queue
+
+Examples in source code
